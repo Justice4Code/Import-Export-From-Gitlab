@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export-Import-Issues-attachments-From-Gitlab", "Export-Import-Issues-attachments-From-Gitlab\Export-Import-Issues-attachments-From-Gitlab.csproj", "{3B2E0CEE-C317-438E-A8BC-C947179863D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A2C1D4E8-39E7-4558-A603-B8268DBB6899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2E0CEE-C317-438E-A8BC-C947179863D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2E0CEE-C317-438E-A8BC-C947179863D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2E0CEE-C317-438E-A8BC-C947179863D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2E0CEE-C317-438E-A8BC-C947179863D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C1D4E8-39E7-4558-A603-B8268DBB6899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C1D4E8-39E7-4558-A603-B8268DBB6899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C1D4E8-39E7-4558-A603-B8268DBB6899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C1D4E8-39E7-4558-A603-B8268DBB6899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AC77D7-13D5-465B-A065-CB1AE343C7C9}
+	EndGlobalSection
+EndGlobal
