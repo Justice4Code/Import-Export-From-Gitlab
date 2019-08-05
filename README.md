@@ -1,5 +1,5 @@
 
-# Import-Export-From-Gitlab
+# Import Export Issues with All Attachments From Gitlab
 
 Using this console application you can easily export your issues with notes and attachment from gitlab and easily import them to your own gitlab given project Id and milestone(optional) in matter of minutes.
 
